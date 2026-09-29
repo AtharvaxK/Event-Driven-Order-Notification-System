@@ -1,0 +1,23 @@
+# Compiled class files
+target/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Maven
+.mvn/
+mvn.cmd
+
+# Environment variables
+.env
+
+# Log files
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
